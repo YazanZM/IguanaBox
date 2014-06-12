@@ -1,0 +1,12 @@
+name: IguanaBox
+version: 1.0.0
+main: com.iguanacraft.yazan.IguanaBox
+commands:
+  buywarp:
+    description: Buy a warp for your town!
+  removemywarp:
+    description: Remove a warp you bought!
+  pvpstats:
+    description: View your pvp stats on IC!
+  iguanabox:
+    description: Contains all of IguanaCraft's custom features!
